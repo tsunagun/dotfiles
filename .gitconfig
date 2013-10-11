@@ -1,0 +1,14 @@
+[core]
+  editor = vim
+  pager = less
+	whitespace = fix,space-before-tab,tab-in-indent,trailing-space
+	autocrlf = input
+[user]
+  name = tsunagun
+  email = tsunagu.honma@gmail.com
+[color]
+  ui = auto
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = auto
